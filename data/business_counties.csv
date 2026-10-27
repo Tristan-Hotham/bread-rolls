@@ -1,0 +1,89 @@
+county,nation,fsa_businesses,roll,bap,cob,batch,barm,stottie,breadcake,scuffler,ovenbottom,bun,butty,sarnie,sandwich,piece,crusty,butty_share,roll_words,sandwich_words
+Aberdeen City,Scotland,2256,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,0,5
+Aberdeenshire,Scotland,2753,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,,0,4
+Angus,Scotland,1032,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,1,1
+Argyll and Bute,Scotland,1238,2,0,0,0,0,0,0,0,0,2,0,0,1,1,0,,2,2
+Bedfordshire,England,5048,2,2,0,0,0,0,0,0,0,3,0,0,8,0,0,,4,8
+Berkshire,England,7433,1,0,0,0,0,0,0,0,0,6,0,0,4,0,0,,1,4
+Bristol,England,4504,3,4,0,0,0,0,0,0,0,3,0,0,6,0,0,,7,6
+Buckinghamshire,England,7108,0,0,0,0,0,0,0,0,0,3,0,0,8,0,1,,0,8
+Cambridgeshire,England,7855,4,0,0,0,0,0,0,0,0,9,1,0,13,0,0,0.0714,4,14
+Cheshire,England,8736,3,6,0,0,0,0,0,0,0,7,9,2,35,0,0,0.1957,9,46
+City of Edinburgh,Scotland,5174,5,0,0,0,0,0,0,0,0,7,0,0,17,1,0,0.0,5,18
+Clackmannanshire,Scotland,504,5,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,5,1
+Clwyd,Wales,5256,1,0,0,0,0,0,0,0,0,3,4,0,16,0,0,0.2,1,20
+Cornwall,England,5545,3,2,0,0,0,0,0,0,0,2,0,0,5,0,0,,5,5
+Cumbria,England,5945,2,3,0,0,0,0,0,0,0,2,3,1,16,0,1,0.15,5,20
+Derbyshire,England,9557,8,6,8,0,0,0,0,0,0,9,3,2,26,0,0,0.0968,22,31
+Devon,England,12017,6,6,0,0,0,0,0,0,0,7,0,1,17,0,7,0.0,12,18
+Dorset,England,8730,1,5,1,0,0,0,0,0,0,4,0,0,13,0,2,0.0,7,13
+Dumfries and Galloway,Scotland,2529,3,0,0,0,0,0,0,0,0,1,0,0,2,0,0,,3,2
+Dundee City,Scotland,1460,1,0,0,0,0,0,0,0,0,2,3,0,1,0,0,,1,4
+Durham,England,7856,3,2,0,0,0,0,0,0,0,2,3,4,15,0,2,0.1364,5,22
+Dyfed,Wales,5496,0,2,0,0,0,0,0,0,0,0,0,0,4,0,0,,2,4
+East Ayrshire,Scotland,1149,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,,3,1
+East Dunbartonshire,Scotland,669,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0
+East Lothian,Scotland,879,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2,0
+East Renfrewshire,Scotland,643,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,1,1
+East Riding of Yorkshire,England,5549,3,0,0,0,0,0,1,0,0,4,3,0,16,0,0,0.1579,4,19
+East Sussex,England,8303,4,0,0,0,0,0,0,0,0,2,0,0,8,0,0,,4,8
+Essex,England,15378,3,1,0,0,0,0,0,0,0,15,0,1,36,0,2,0.0,4,37
+Falkirk,Scotland,1236,2,1,0,0,0,0,0,0,0,4,0,0,5,0,0,,3,5
+Fife,Scotland,5097,2,0,0,0,0,0,0,0,0,3,0,0,8,0,0,,2,8
+Glasgow City,Scotland,6750,12,0,0,0,0,0,0,0,0,4,1,0,10,4,0,0.0667,12,15
+Gloucestershire,England,8103,2,7,1,0,0,0,0,0,0,5,2,0,14,0,2,0.125,10,16
+Greater London,England,81769,16,4,0,0,0,0,0,0,0,69,2,4,99,0,5,0.019,20,105
+Greater Manchester,England,25420,9,7,0,0,3,0,0,0,1,32,35,2,93,0,0,0.2692,20,130
+Gwent,Wales,5482,0,4,0,0,0,0,0,0,0,3,1,0,7,0,0,,4,8
+Gwynedd,Wales,2883,1,1,0,0,0,0,0,0,0,0,2,0,10,0,0,0.1667,2,12
+Hampshire,England,14646,6,4,0,0,0,0,0,0,0,14,0,0,20,0,0,0.0,10,20
+Herefordshire,England,1788,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,,1,2
+Hertfordshire,England,9874,1,0,0,0,0,0,0,0,0,4,1,0,17,0,0,0.0556,1,18
+Highland,Scotland,6028,1,1,0,0,0,0,0,0,0,5,0,0,2,4,0,,2,6
+Inverclyde,Scotland,637,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,,3,1
+Isle of Wight,England,1700,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,,0,3
+Kent,England,16876,7,3,0,0,0,0,0,0,0,13,1,1,34,0,1,0.0278,10,36
+Lancashire,England,14279,2,7,0,0,1,0,0,0,0,2,36,4,55,0,0,0.3789,10,95
+Leicestershire,England,9299,4,1,9,2,0,2,0,0,0,7,2,0,14,0,1,0.125,18,16
+Lincolnshire,England,11247,2,6,2,0,0,0,0,0,0,14,3,0,11,0,0,0.2143,10,14
+Merseyside,England,11489,7,2,3,0,0,0,0,0,0,4,10,0,46,0,3,0.1786,12,56
+Mid Glamorgan,Wales,3981,1,2,0,0,0,0,0,0,0,1,2,0,4,0,0,,3,6
+Midlothian,Scotland,683,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,3,0
+Moray,Scotland,1134,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,,1,1
+Na h-Eileanan Siar,Scotland,588,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,,0,2
+Norfolk,England,9079,1,8,0,0,0,0,0,0,0,13,0,1,3,0,2,,9,4
+North Ayrshire,Scotland,1375,3,0,0,0,0,0,0,0,0,2,0,0,1,1,0,,3,2
+North Lanarkshire,Scotland,2635,5,1,0,0,0,0,0,0,0,7,0,0,0,1,0,,6,1
+North Yorkshire,England,11512,2,3,1,0,0,0,0,0,0,4,7,3,25,0,0,0.2,6,35
+Northamptonshire,England,6949,1,0,0,0,0,0,0,0,0,3,1,0,10,0,0,0.0909,1,11
+Northumberland,England,3522,0,1,0,0,0,0,0,0,0,3,0,0,7,0,0,,1,7
+Nottinghamshire,England,9779,6,4,21,0,0,0,0,0,0,18,1,0,20,0,3,0.0476,31,21
+Orkney Islands,Scotland,464,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0
+Oxfordshire,England,6257,2,1,0,0,0,0,0,0,0,5,3,2,15,0,0,0.15,3,20
+Perth and Kinross,Scotland,1952,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,0,2
+Powys,Wales,2556,0,1,0,0,0,0,0,0,0,2,0,0,5,0,0,,1,5
+Renfrewshire,Scotland,1508,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,,1,1
+Rutland,England,463,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,1,0
+Scottish Borders,Scotland,1631,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0
+Shetland Islands,Scotland,274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0
+Shropshire,England,4642,1,6,0,0,0,0,0,0,0,4,3,0,13,0,0,0.1875,7,16
+Somerset,England,9707,3,5,1,0,0,0,0,0,0,14,1,0,6,0,0,,9,7
+South Ayrshire,Scotland,1035,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,1,1
+South Glamorgan,Wales,4849,1,1,1,0,0,0,0,0,0,1,0,0,7,0,0,,3,7
+South Lanarkshire,Scotland,2448,2,0,0,0,0,0,0,0,0,0,1,0,6,0,0,,2,7
+South Yorkshire,England,11737,5,5,8,0,0,0,0,0,0,7,11,1,51,0,4,0.1746,18,63
+Staffordshire,England,9595,3,4,1,0,0,0,0,0,0,5,5,0,20,0,1,0.2,8,25
+Stirling,Scotland,1257,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,0,2
+Suffolk,England,6831,1,2,0,0,0,0,0,0,0,5,2,0,13,0,0,0.1333,3,15
+Surrey,England,9417,5,1,0,0,0,0,0,0,0,5,1,1,15,0,0,0.0588,6,17
+Tyne and Wear,England,9288,2,2,0,0,0,2,0,0,0,4,4,1,38,0,1,0.093,6,43
+Warwickshire,England,5241,4,1,0,2,0,1,0,0,0,2,5,0,11,0,0,0.3125,8,16
+West Dunbartonshire,Scotland,753,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,4,0
+West Glamorgan,Wales,3657,2,0,0,0,0,0,0,0,0,1,1,0,2,0,0,,2,3
+West Lothian,Scotland,1165,2,0,0,0,0,0,0,0,0,1,0,0,2,0,0,,2,2
+West Midlands,England,24633,5,7,8,6,0,0,0,0,0,31,9,1,48,0,6,0.1552,26,58
+West Sussex,England,7987,0,4,0,0,0,0,0,0,0,5,1,0,12,0,0,0.0769,4,13
+West Yorkshire,England,21075,10,14,1,0,0,0,1,1,0,15,19,7,121,0,5,0.1293,27,147
+Wiltshire,England,5953,2,3,0,0,0,0,0,0,0,7,0,0,10,0,0,0.0,5,10
+Worcestershire,England,4634,0,0,0,0,0,0,0,0,0,4,0,0,9,0,1,,0,9
+Northern Ireland,Northern Ireland,16986,4,7,0,0,0,0,0,0,0,10,1,0,29,0,1,0.0333,11,30

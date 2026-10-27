@@ -1,0 +1,3015 @@
+{
+ "survey": {
+  "od_n": 11609,
+  "dh_n": 8463,
+  "n": 20072,
+  "od_inside": 11575,
+  "dh_inside": 8463,
+  "dh_raw": {
+   "bap": 1040,
+   "barm": 255,
+   "batch": 91,
+   "bread roll": 2379,
+   "breadcake": 341,
+   "bun": 1187,
+   "cob": 834,
+   "roll": 2110,
+   "something else": 226
+  },
+  "od_raw": {
+   "roll": 4836,
+   "bap": 1544,
+   "muffin": 394,
+   "batch": 140,
+   "bun": 1857,
+   "barm": 1451,
+   "teacake": 463,
+   "cob": 624,
+   "breadcake": 300
+  },
+  "inside_n": 20038,
+  "outside_n": 34,
+  "share_OD": {
+   "roll": 0.4171058315334773,
+   "bun": 0.15991360691144707,
+   "bap": 0.13166306695464364,
+   "barm": 0.12535637149028078,
+   "cob": 0.05390928725701944,
+   "breadcake": 0.02591792656587473,
+   "teacake": 0.04,
+   "muffin": 0.034038876889848815,
+   "batch": 0.012095032397408207,
+   "other": 0.0
+  },
+  "count_OD": {
+   "roll": 4828,
+   "bun": 1851,
+   "bap": 1524,
+   "barm": 1451,
+   "cob": 624,
+   "breadcake": 300,
+   "teacake": 463,
+   "muffin": 394,
+   "batch": 140,
+   "other": 0
+  },
+  "share_DH": {
+   "roll": 0.5304265626846272,
+   "bun": 0.1402575918704951,
+   "bap": 0.1228878648233487,
+   "barm": 0.03013115916341723,
+   "cob": 0.09854661467564693,
+   "breadcake": 0.040293040293040296,
+   "teacake": 0.0,
+   "muffin": 0.0,
+   "batch": 0.010752688172043012,
+   "other": 0.026704478317381545
+  },
+  "count_DH": {
+   "roll": 4489,
+   "bun": 1187,
+   "bap": 1040,
+   "barm": 255,
+   "cob": 834,
+   "breadcake": 341,
+   "teacake": 0,
+   "muffin": 0,
+   "batch": 91,
+   "other": 226
+  },
+  "share_ALL": {
+   "roll": 0.46496656352929433,
+   "bun": 0.15161193731909373,
+   "bap": 0.12795688192434373,
+   "barm": 0.08513823734903683,
+   "cob": 0.07276175266992714,
+   "breadcake": 0.031989220481085934,
+   "teacake": 0.02310609841301527,
+   "muffin": 0.019662640982133946,
+   "batch": 0.011528096616428785,
+   "other": 0.011278570715640283
+  },
+  "count_ALL": {
+   "roll": 9317,
+   "bun": 3038,
+   "bap": 2564,
+   "barm": 1706,
+   "cob": 1458,
+   "breadcake": 641,
+   "teacake": 463,
+   "muffin": 394,
+   "batch": 231,
+   "other": 226
+  },
+  "by_nation": {
+   "England": {
+    "n": 18943,
+    "n_od": 10480,
+    "n_dh": 8463,
+    "share": {
+     "roll": 0.4542575093702159,
+     "bun": 0.15784194689331152,
+     "bap": 0.11872459483714301,
+     "barm": 0.08963733305178694,
+     "cob": 0.07665100564852452,
+     "breadcake": 0.03378556722799979,
+     "teacake": 0.024388956342712348,
+     "muffin": 0.02069365992714987,
+     "batch": 0.012088898273768675,
+     "other": 0.011930528427387425
+    }
+   },
+   "Scotland": {
+    "n": 536,
+    "n_od": 536,
+    "n_dh": 0,
+    "share": {
+     "roll": 0.9365671641791045,
+     "bun": 0.022388059701492536,
+     "bap": 0.033582089552238806,
+     "barm": 0.0018656716417910447,
+     "cob": 0.0018656716417910447,
+     "breadcake": 0.0,
+     "teacake": 0.0018656716417910447,
+     "muffin": 0.0018656716417910447,
+     "batch": 0.0,
+     "other": 0.0
+    }
+   },
+   "Wales": {
+    "n": 368,
+    "n_od": 368,
+    "n_dh": 0,
+    "share": {
+     "roll": 0.529891304347826,
+     "bun": 0.08695652173913043,
+     "bap": 0.34782608695652173,
+     "barm": 0.01358695652173913,
+     "cob": 0.01358695652173913,
+     "breadcake": 0.002717391304347826,
+     "teacake": 0.0,
+     "muffin": 0.0,
+     "batch": 0.005434782608695652,
+     "other": 0.0
+    }
+   },
+   "Northern Ireland": {
+    "n": 191,
+    "n_od": 191,
+    "n_dh": 0,
+    "share": {
+     "roll": 0.07853403141361257,
+     "bun": 0.020942408376963352,
+     "bap": 0.8848167539267016,
+     "barm": 0.010471204188481676,
+     "cob": 0.0,
+     "breadcake": 0.0,
+     "teacake": 0.0,
+     "muffin": 0.005235602094240838,
+     "batch": 0.0,
+     "other": 0.0
+    }
+   }
+  },
+  "dh_bread_roll": 2379,
+  "dh_roll_only": 2110
+ },
+ "hex": {
+  "across_km": 20.0,
+  "n_hex_any": 650,
+  "n_hex_published": 318,
+  "answers_in_published": 18973,
+  "share_answers_published": 0.9468509831320491,
+  "top_counts": {
+   "roll": 225,
+   "bun": 40,
+   "bap": 13,
+   "barm": 11,
+   "cob": 15,
+   "breadcake": 4,
+   "teacake": 6,
+   "muffin": 2,
+   "batch": 2,
+   "other": 0
+  },
+  "median_n": 29.0
+ },
+ "counties": {
+  "n_published": 75,
+  "n_total": 88,
+  "top_counts": {
+   "roll": 58,
+   "barm": 4,
+   "bap": 4,
+   "cob": 3,
+   "bun": 4,
+   "breadcake": 2
+  }
+ },
+ "smoothing": {
+  "cell_km": 2.0,
+  "candidates_km": [
+   4,
+   6,
+   8,
+   10,
+   12,
+   16,
+   20,
+   24,
+   32
+  ],
+  "loglik": {
+   "4": -1.2165134360017578,
+   "6": -1.1993766533038968,
+   "8": -1.1951744343165562,
+   "10": -1.196887377046435,
+   "12": -1.2019950080606674,
+   "16": -1.2166395038060842,
+   "20": -1.2338752573954208,
+   "24": -1.2519235891284775,
+   "32": -1.285930774315703
+  },
+  "cv_best_km": 8,
+  "bandwidth_km": 8,
+  "alpha": 1.0,
+  "same_lead_half": 0.9417107495758059,
+  "same_lead_double": 0.9105200119772432,
+  "steps_km": [
+   8,
+   12,
+   16,
+   24,
+   32
+  ],
+  "share_masked_land_by_width": {
+   "8": 0.5243745762106992,
+   "12": 0.13811070268727027,
+   "16": 0.08978980050676279,
+   "24": 0.1467113950251597,
+   "32": 0.10101352557010813
+  },
+  "masked_share_of_land": 0.8701228127377459,
+  "dominant_area_km2": {
+   "roll": 167604.0,
+   "bun": 17952.0,
+   "bap": 22032.0,
+   "barm": 3948.0,
+   "cob": 6396.0,
+   "breadcake": 3196.0,
+   "teacake": 1964.0,
+   "muffin": 644.0,
+   "batch": 432.0,
+   "other": 0.0
+  },
+  "covered_area_km2": 224168.0
+ },
+ "lines": {
+  "length_km": {
+   "roll|bun": 625.3,
+   "roll|bap": 385.4,
+   "roll|barm": 61.7,
+   "roll|cob": 317.0,
+   "roll|breadcake": 116.7,
+   "roll|teacake": 121.1,
+   "roll|muffin": 47.3,
+   "roll|batch": 50.8,
+   "bun|barm": 24.9,
+   "bun|breadcake": 122.7,
+   "bun|teacake": 42.9,
+   "bap|barm": 20.0,
+   "bap|cob": 18.5,
+   "barm|teacake": 25.2,
+   "barm|muffin": 38.0,
+   "cob|breadcake": 29.6,
+   "roll_half": 1111.5
+  },
+  "share_answers_roll_majority": 0.416059486974748,
+  "share_answers_roll_majority_by_nation": {
+   "England": 0.4009924510373225,
+   "Scotland": 0.9309701492537313,
+   "Wales": 0.657608695652174,
+   "Northern Ireland": 0.0
+  },
+  "england_profile": [
+   {
+    "northing_km": 25.0,
+    "lat": 50.19649585790937,
+    "roll": 0.6339198461524814,
+    "bun": 0.07853650407358276,
+    "bap": 0.22791371661285764,
+    "barm": 0.005180145516977193,
+    "cob": 0.03462728632560353,
+    "breadcake": 0.0019463501033894375,
+    "teacake": 0.0014058659873156156,
+    "muffin": 0.0011963524816465498,
+    "batch": 0.0007014147798486116,
+    "other": 0.014572517966297268
+   },
+   {
+    "northing_km": 75.0,
+    "lat": 50.62479119175052,
+    "roll": 0.742941828888896,
+    "bun": 0.08673741942843602,
+    "bap": 0.11108022824606194,
+    "barm": 0.0066696803416723535,
+    "cob": 0.03554302572722301,
+    "breadcake": 0.003257956934503711,
+    "teacake": 0.0012387877281576822,
+    "muffin": 0.002575207930367836,
+    "batch": 0.0048087939826006185,
+    "other": 0.0051470707920808064
+   },
+   {
+    "northing_km": 125.0,
+    "lat": 51.01431056251301,
+    "roll": 0.746978100580807,
+    "bun": 0.10231031783321355,
+    "bap": 0.09784962078923026,
+    "barm": 0.011892734886484822,
+    "cob": 0.02413562189949954,
+    "breadcake": 0.0046779945464871355,
+    "teacake": 0.003198012237807007,
+    "muffin": 0.0025991880997224704,
+    "batch": 0.0045324964628473885,
+    "other": 0.0018259126639007946
+   },
+   {
+    "northing_km": 175.0,
+    "lat": 51.43327229175481,
+    "roll": 0.753547841990705,
+    "bun": 0.10493633183050399,
+    "bap": 0.10003413968489164,
+    "barm": 0.006388871896149375,
+    "cob": 0.021806399988221765,
+    "breadcake": 0.001328096964079175,
+    "teacake": 0.0054329527796621625,
+    "muffin": 0.0035489566972641278,
+    "batch": 0.001326735243932203,
+    "other": 0.001649672924590534
+   },
+   {
+    "northing_km": 225.0,
+    "lat": 51.921913939303145,
+    "roll": 0.7355915782219327,
+    "bun": 0.10622806767743563,
+    "bap": 0.10642363064758147,
+    "barm": 0.011535128588952778,
+    "cob": 0.025687786821151467,
+    "breadcake": 0.004357250774476107,
+    "teacake": 0.0018172733902267844,
+    "muffin": 0.002272098813624548,
+    "batch": 0.003782517050850785,
+    "other": 0.002304668013767807
+   },
+   {
+    "northing_km": 275.0,
+    "lat": 52.35716586693627,
+    "roll": 0.6643174773671995,
+    "bun": 0.08930494549579276,
+    "bap": 0.10486569342144662,
+    "barm": 0.007243819863373386,
+    "cob": 0.08928862319518137,
+    "breadcake": 0.0048305691899472375,
+    "teacake": 0.0011500635342654125,
+    "muffin": 0.00204126867543813,
+    "batch": 0.03208663616512427,
+    "other": 0.004870903092231424
+   },
+   {
+    "northing_km": 325.0,
+    "lat": 52.782907095834695,
+    "roll": 0.5346130491594874,
+    "bun": 0.09073822495688083,
+    "bap": 0.1465319361525289,
+    "barm": 0.010357721262672629,
+    "cob": 0.19732014551987773,
+    "breadcake": 0.005715526204998073,
+    "teacake": 0.004575906271268306,
+    "muffin": 0.0012605968882908416,
+    "batch": 0.004288162414145846,
+    "other": 0.004598731169849458
+   },
+   {
+    "northing_km": 375.0,
+    "lat": 53.26529587459915,
+    "roll": 0.30894436850514123,
+    "bun": 0.17013384392785028,
+    "bap": 0.17444970052419395,
+    "barm": 0.09656636409842737,
+    "cob": 0.14665246697569678,
+    "breadcake": 0.06259169699786302,
+    "teacake": 0.004734916133712771,
+    "muffin": 0.01585873916335095,
+    "batch": 0.012376479505389145,
+    "other": 0.007691424168374504
+   },
+   {
+    "northing_km": 425.0,
+    "lat": 53.709355634876985,
+    "roll": 0.2440516018210051,
+    "bun": 0.19464901230602422,
+    "bap": 0.12852256507318402,
+    "barm": 0.1255734475588205,
+    "cob": 0.022242705340301927,
+    "breadcake": 0.1436787608106368,
+    "teacake": 0.08270066313255241,
+    "muffin": 0.030498642058248038,
+    "batch": 0.0024475542062983957,
+    "other": 0.025635047692928657
+   },
+   {
+    "northing_km": 475.0,
+    "lat": 54.16616096641357,
+    "roll": 0.3121894546744267,
+    "bun": 0.4179759983909479,
+    "bap": 0.12596727803692537,
+    "barm": 0.02566914321476102,
+    "cob": 0.02966232408463499,
+    "breadcake": 0.028981718014356873,
+    "teacake": 0.03012371981919592,
+    "muffin": 0.004020947523674822,
+    "batch": 0.0007847800772501079,
+    "other": 0.024624636163826312
+   },
+   {
+    "northing_km": 525.0,
+    "lat": 54.57953505781444,
+    "roll": 0.34853566183476176,
+    "bun": 0.3970063049057166,
+    "bap": 0.13219252726493672,
+    "barm": 0.01836224244396599,
+    "cob": 0.013220726779618223,
+    "breadcake": 0.005438077134639319,
+    "teacake": 0.05827898776370872,
+    "muffin": 0.0018325631878786238,
+    "batch": 0.0014479597688969712,
+    "other": 0.0236849489158771
+   },
+   {
+    "northing_km": 575.0,
+    "lat": 55.02650165923809,
+    "roll": 0.38728226785622494,
+    "bun": 0.4128006577310997,
+    "bap": 0.13664558824441594,
+    "barm": 0.016065431692751337,
+    "cob": 0.013332701678753547,
+    "breadcake": 0.0023192394901984624,
+    "teacake": 0.00729824431238937,
+    "muffin": 0.007856663153950286,
+    "batch": 0.001370379968650922,
+    "other": 0.01502882587156548
+   },
+   {
+    "northing_km": 625.0,
+    "lat": 55.46888700475428,
+    "roll": 0.4080369853948566,
+    "bun": 0.4566309452469663,
+    "bap": 0.08218604182221739,
+    "barm": 0.00589044833686871,
+    "cob": 0.011916534550521905,
+    "breadcake": 0.002127618501950407,
+    "teacake": 0.001552540787069442,
+    "muffin": 0.0013642100308637298,
+    "batch": 0.0007833150772908519,
+    "other": 0.029511360251394645
+   }
+  ]
+ },
+ "agreement": {
+  "n_counties": 44,
+  "min_n": 30,
+  "by_word": {
+   "roll": {
+    "r": 0.9378986947267388,
+    "p": 6.357726800356048e-21,
+    "mean_abs_diff": 0.11190227272727273
+   },
+   "bun": {
+    "r": 0.9549233646376316,
+    "p": 8.985017697009066e-24,
+    "mean_abs_diff": 0.06385681818181818
+   },
+   "bap": {
+    "r": 0.6849526083570613,
+    "p": 2.9224688493520623e-07,
+    "mean_abs_diff": 0.04286818181818181
+   },
+   "barm": {
+    "r": 0.9894742392810462,
+    "p": 6.8068046473531915e-37,
+    "mean_abs_diff": 0.026209090909090915
+   },
+   "cob": {
+    "r": 0.949029266888918,
+    "p": 1.1201926261308866e-22,
+    "mean_abs_diff": 0.043445454545454544
+   },
+   "breadcake": {
+    "r": 0.9775260995868089,
+    "p": 5.022945771388118e-30,
+    "mean_abs_diff": 0.01083409090909091
+   },
+   "batch": {
+    "r": 0.9593204721462048,
+    "p": 1.0864880420926356e-24,
+    "mean_abs_diff": 0.006670454545454545
+   }
+  },
+  "top_agree": 34,
+  "top_agree_share": 0.7727272727272727,
+  "disagree": [
+   {
+    "county": "Cheshire",
+    "od": "barm",
+    "dh": "roll",
+    "n_od": 347,
+    "n_dh": 177
+   },
+   {
+    "county": "Cumbria",
+    "od": "bun",
+    "dh": "roll",
+    "n_od": 108,
+    "n_dh": 139
+   },
+   {
+    "county": "Greater Manchester",
+    "od": "barm",
+    "dh": "roll",
+    "n_od": 1619,
+    "n_dh": 382
+   },
+   {
+    "county": "Lancashire",
+    "od": "barm",
+    "dh": "roll",
+    "n_od": 740,
+    "n_dh": 252
+   },
+   {
+    "county": "Lincolnshire",
+    "od": "bun",
+    "dh": "roll",
+    "n_od": 144,
+    "n_dh": 173
+   },
+   {
+    "county": "Merseyside",
+    "od": "barm",
+    "dh": "roll",
+    "n_od": 528,
+    "n_dh": 256
+   },
+   {
+    "county": "North Yorkshire",
+    "od": "bun",
+    "dh": "roll",
+    "n_od": 354,
+    "n_dh": 642
+   },
+   {
+    "county": "Staffordshire",
+    "od": "bap",
+    "dh": "roll",
+    "n_od": 215,
+    "n_dh": 219
+   },
+   {
+    "county": "West Midlands",
+    "od": "roll",
+    "dh": "cob",
+    "n_od": 286,
+    "n_dh": 431
+   },
+   {
+    "county": "West Yorkshire",
+    "od": "other",
+    "dh": "roll",
+    "n_od": 486,
+    "n_dh": 629
+   }
+  ],
+  "scatter": [
+   {
+    "county": "Bedfordshire",
+    "od_roll": 0.8734,
+    "od_bun": 0.0759,
+    "od_bap": 0.038,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7966,
+    "dh_bun": 0.1017,
+    "dh_bap": 0.0847,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0,
+    "dh_breadcake": 0.0169,
+    "n_od": 79,
+    "n_dh": 59
+   },
+   {
+    "county": "Berkshire",
+    "od_roll": 0.7288,
+    "od_bun": 0.161,
+    "od_bap": 0.0847,
+    "od_barm": 0.0169,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7872,
+    "dh_bun": 0.117,
+    "dh_bap": 0.0745,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0213,
+    "dh_breadcake": 0.0,
+    "n_od": 118,
+    "n_dh": 94
+   },
+   {
+    "county": "Bristol",
+    "od_roll": 0.7826,
+    "od_bun": 0.087,
+    "od_bap": 0.1087,
+    "od_barm": 0.0,
+    "od_cob": 0.0217,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.6379,
+    "dh_bun": 0.0517,
+    "dh_bap": 0.1379,
+    "dh_barm": 0.0172,
+    "dh_cob": 0.1552,
+    "dh_breadcake": 0.0,
+    "n_od": 46,
+    "n_dh": 58
+   },
+   {
+    "county": "Buckinghamshire",
+    "od_roll": 0.7287,
+    "od_bun": 0.1318,
+    "od_bap": 0.124,
+    "od_barm": 0.0078,
+    "od_cob": 0.0078,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7356,
+    "dh_bun": 0.1264,
+    "dh_bap": 0.1034,
+    "dh_barm": 0.0,
+    "dh_cob": 0.023,
+    "dh_breadcake": 0.0,
+    "n_od": 129,
+    "n_dh": 87
+   },
+   {
+    "county": "Cambridgeshire",
+    "od_roll": 0.8681,
+    "od_bun": 0.0556,
+    "od_bap": 0.0625,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7326,
+    "dh_bun": 0.093,
+    "dh_bap": 0.1279,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0349,
+    "dh_breadcake": 0.0,
+    "n_od": 144,
+    "n_dh": 86
+   },
+   {
+    "county": "Cheshire",
+    "od_roll": 0.2219,
+    "od_bun": 0.1182,
+    "od_bap": 0.2651,
+    "od_barm": 0.3458,
+    "od_cob": 0.0086,
+    "od_breadcake": 0.0029,
+    "dh_roll": 0.3672,
+    "dh_bun": 0.1356,
+    "dh_bap": 0.1921,
+    "dh_barm": 0.1469,
+    "dh_cob": 0.0395,
+    "dh_breadcake": 0.0282,
+    "n_od": 347,
+    "n_dh": 177
+   },
+   {
+    "county": "Cornwall",
+    "od_roll": 0.7368,
+    "od_bun": 0.0789,
+    "od_bap": 0.1579,
+    "od_barm": 0.0,
+    "od_cob": 0.0263,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.6087,
+    "dh_bun": 0.1087,
+    "dh_bap": 0.1957,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0652,
+    "dh_breadcake": 0.0,
+    "n_od": 38,
+    "n_dh": 46
+   },
+   {
+    "county": "Cumbria",
+    "od_roll": 0.2315,
+    "od_bun": 0.4167,
+    "od_bap": 0.1111,
+    "od_barm": 0.0185,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.4317,
+    "dh_bun": 0.2734,
+    "dh_bap": 0.1942,
+    "dh_barm": 0.0288,
+    "dh_cob": 0.0288,
+    "dh_breadcake": 0.0144,
+    "n_od": 108,
+    "n_dh": 139
+   },
+   {
+    "county": "Derbyshire",
+    "od_roll": 0.1458,
+    "od_bun": 0.0694,
+    "od_bap": 0.1354,
+    "od_barm": 0.0104,
+    "od_cob": 0.5139,
+    "od_breadcake": 0.0833,
+    "dh_roll": 0.3092,
+    "dh_bun": 0.0461,
+    "dh_bap": 0.0921,
+    "dh_barm": 0.0132,
+    "dh_cob": 0.4803,
+    "dh_breadcake": 0.0197,
+    "n_od": 288,
+    "n_dh": 152
+   },
+   {
+    "county": "Devon",
+    "od_roll": 0.7647,
+    "od_bun": 0.084,
+    "od_bap": 0.1345,
+    "od_barm": 0.0,
+    "od_cob": 0.0084,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.6814,
+    "dh_bun": 0.0885,
+    "dh_bap": 0.1416,
+    "dh_barm": 0.0088,
+    "dh_cob": 0.0619,
+    "dh_breadcake": 0.0088,
+    "n_od": 119,
+    "n_dh": 113
+   },
+   {
+    "county": "Dorset",
+    "od_roll": 0.8226,
+    "od_bun": 0.0323,
+    "od_bap": 0.0806,
+    "od_barm": 0.0323,
+    "od_cob": 0.0161,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.8049,
+    "dh_bun": 0.0488,
+    "dh_bap": 0.0488,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0488,
+    "dh_breadcake": 0.0,
+    "n_od": 62,
+    "n_dh": 41
+   },
+   {
+    "county": "Durham",
+    "od_roll": 0.1016,
+    "od_bun": 0.8289,
+    "od_bap": 0.0374,
+    "od_barm": 0.0107,
+    "od_cob": 0.0053,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.316,
+    "dh_bun": 0.472,
+    "dh_bap": 0.124,
+    "dh_barm": 0.004,
+    "dh_cob": 0.02,
+    "dh_breadcake": 0.004,
+    "n_od": 187,
+    "n_dh": 250
+   },
+   {
+    "county": "East Riding of Yorkshire",
+    "od_roll": 0.1233,
+    "od_bun": 0.3014,
+    "od_bap": 0.1575,
+    "od_barm": 0.0411,
+    "od_cob": 0.0068,
+    "od_breadcake": 0.363,
+    "dh_roll": 0.2273,
+    "dh_bun": 0.1429,
+    "dh_bap": 0.1234,
+    "dh_barm": 0.026,
+    "dh_cob": 0.013,
+    "dh_breadcake": 0.4416,
+    "n_od": 146,
+    "n_dh": 154
+   },
+   {
+    "county": "East Sussex",
+    "od_roll": 0.7255,
+    "od_bun": 0.1275,
+    "od_bap": 0.0882,
+    "od_barm": 0.0196,
+    "od_cob": 0.0098,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.832,
+    "dh_bun": 0.096,
+    "dh_bap": 0.064,
+    "dh_barm": 0.0,
+    "dh_cob": 0.008,
+    "dh_breadcake": 0.0,
+    "n_od": 102,
+    "n_dh": 125
+   },
+   {
+    "county": "Essex",
+    "od_roll": 0.8444,
+    "od_bun": 0.0933,
+    "od_bap": 0.0444,
+    "od_barm": 0.0044,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0044,
+    "dh_roll": 0.7854,
+    "dh_bun": 0.0944,
+    "dh_bap": 0.0601,
+    "dh_barm": 0.0043,
+    "dh_cob": 0.0472,
+    "dh_breadcake": 0.0,
+    "n_od": 225,
+    "n_dh": 233
+   },
+   {
+    "county": "Gloucestershire",
+    "od_roll": 0.7195,
+    "od_bun": 0.0976,
+    "od_bap": 0.1768,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.6064,
+    "dh_bun": 0.0957,
+    "dh_bap": 0.1809,
+    "dh_barm": 0.0,
+    "dh_cob": 0.1064,
+    "dh_breadcake": 0.0106,
+    "n_od": 164,
+    "n_dh": 94
+   },
+   {
+    "county": "Greater London",
+    "od_roll": 0.6929,
+    "od_bun": 0.1523,
+    "od_bap": 0.1265,
+    "od_barm": 0.0065,
+    "od_cob": 0.0052,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.8114,
+    "dh_bun": 0.0861,
+    "dh_bap": 0.0733,
+    "dh_barm": 0.0018,
+    "dh_cob": 0.0238,
+    "dh_breadcake": 0.0037,
+    "n_od": 775,
+    "n_dh": 546
+   },
+   {
+    "county": "Greater Manchester",
+    "od_roll": 0.097,
+    "od_bun": 0.1161,
+    "od_bap": 0.0846,
+    "od_barm": 0.4744,
+    "od_cob": 0.0086,
+    "od_breadcake": 0.0019,
+    "dh_roll": 0.3874,
+    "dh_bun": 0.055,
+    "dh_bap": 0.0916,
+    "dh_barm": 0.2173,
+    "dh_cob": 0.1309,
+    "dh_breadcake": 0.0209,
+    "n_od": 1619,
+    "n_dh": 382
+   },
+   {
+    "county": "Hampshire",
+    "od_roll": 0.7768,
+    "od_bun": 0.1245,
+    "od_bap": 0.0815,
+    "od_barm": 0.0086,
+    "od_cob": 0.0086,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.8113,
+    "dh_bun": 0.0991,
+    "dh_bap": 0.0425,
+    "dh_barm": 0.0047,
+    "dh_cob": 0.0377,
+    "dh_breadcake": 0.0047,
+    "n_od": 233,
+    "n_dh": 212
+   },
+   {
+    "county": "Hertfordshire",
+    "od_roll": 0.8082,
+    "od_bun": 0.105,
+    "od_bap": 0.0776,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7395,
+    "dh_bun": 0.084,
+    "dh_bap": 0.1008,
+    "dh_barm": 0.0084,
+    "dh_cob": 0.0336,
+    "dh_breadcake": 0.0,
+    "n_od": 219,
+    "n_dh": 119
+   },
+   {
+    "county": "Kent",
+    "od_roll": 0.8061,
+    "od_bun": 0.1122,
+    "od_bap": 0.0612,
+    "od_barm": 0.0051,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0051,
+    "dh_roll": 0.7814,
+    "dh_bun": 0.0437,
+    "dh_bap": 0.0874,
+    "dh_barm": 0.0,
+    "dh_cob": 0.071,
+    "dh_breadcake": 0.0,
+    "n_od": 196,
+    "n_dh": 183
+   },
+   {
+    "county": "Lancashire",
+    "od_roll": 0.1365,
+    "od_bun": 0.1743,
+    "od_bap": 0.0986,
+    "od_barm": 0.3135,
+    "od_cob": 0.0054,
+    "od_breadcake": 0.0027,
+    "dh_roll": 0.373,
+    "dh_bun": 0.127,
+    "dh_bap": 0.1468,
+    "dh_barm": 0.1667,
+    "dh_cob": 0.0595,
+    "dh_breadcake": 0.0198,
+    "n_od": 740,
+    "n_dh": 252
+   },
+   {
+    "county": "Leicestershire",
+    "od_roll": 0.2222,
+    "od_bun": 0.0694,
+    "od_bap": 0.0833,
+    "od_barm": 0.0139,
+    "od_cob": 0.5903,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.2387,
+    "dh_bun": 0.0839,
+    "dh_bap": 0.0645,
+    "dh_barm": 0.0,
+    "dh_cob": 0.5806,
+    "dh_breadcake": 0.0,
+    "n_od": 144,
+    "n_dh": 155
+   },
+   {
+    "county": "Lincolnshire",
+    "od_roll": 0.3958,
+    "od_bun": 0.4236,
+    "od_bap": 0.0972,
+    "od_barm": 0.0,
+    "od_cob": 0.0694,
+    "od_breadcake": 0.0139,
+    "dh_roll": 0.4046,
+    "dh_bun": 0.3006,
+    "dh_bap": 0.1445,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0925,
+    "dh_breadcake": 0.0462,
+    "n_od": 144,
+    "n_dh": 173
+   },
+   {
+    "county": "Merseyside",
+    "od_roll": 0.178,
+    "od_bun": 0.1098,
+    "od_bap": 0.089,
+    "od_barm": 0.4716,
+    "od_cob": 0.0265,
+    "od_breadcake": 0.0038,
+    "dh_roll": 0.2891,
+    "dh_bun": 0.082,
+    "dh_bap": 0.1602,
+    "dh_barm": 0.2148,
+    "dh_cob": 0.1484,
+    "dh_breadcake": 0.0,
+    "n_od": 528,
+    "n_dh": 256
+   },
+   {
+    "county": "Norfolk",
+    "od_roll": 0.8902,
+    "od_bun": 0.0488,
+    "od_bap": 0.0488,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7664,
+    "dh_bun": 0.0657,
+    "dh_bap": 0.0949,
+    "dh_barm": 0.0146,
+    "dh_cob": 0.0365,
+    "dh_breadcake": 0.0073,
+    "n_od": 82,
+    "n_dh": 137
+   },
+   {
+    "county": "North Yorkshire",
+    "od_roll": 0.2571,
+    "od_bun": 0.5141,
+    "od_bap": 0.1243,
+    "od_barm": 0.0141,
+    "od_cob": 0.0198,
+    "od_breadcake": 0.0367,
+    "dh_roll": 0.405,
+    "dh_bun": 0.3302,
+    "dh_bap": 0.148,
+    "dh_barm": 0.0062,
+    "dh_cob": 0.0405,
+    "dh_breadcake": 0.0327,
+    "n_od": 354,
+    "n_dh": 642
+   },
+   {
+    "county": "Northamptonshire",
+    "od_roll": 0.8014,
+    "od_bun": 0.0685,
+    "od_bap": 0.1027,
+    "od_barm": 0.0068,
+    "od_cob": 0.0068,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7333,
+    "dh_bun": 0.1167,
+    "dh_bap": 0.0417,
+    "dh_barm": 0.0083,
+    "dh_cob": 0.075,
+    "dh_breadcake": 0.025,
+    "n_od": 146,
+    "n_dh": 120
+   },
+   {
+    "county": "Northumberland",
+    "od_roll": 0.2184,
+    "od_bun": 0.7011,
+    "od_bap": 0.0805,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.4051,
+    "dh_bun": 0.4304,
+    "dh_bap": 0.0886,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0127,
+    "dh_breadcake": 0.0,
+    "n_od": 87,
+    "n_dh": 79
+   },
+   {
+    "county": "Nottinghamshire",
+    "od_roll": 0.1903,
+    "od_bun": 0.0729,
+    "od_bap": 0.0202,
+    "od_barm": 0.004,
+    "od_cob": 0.6964,
+    "od_breadcake": 0.0081,
+    "dh_roll": 0.3245,
+    "dh_bun": 0.0464,
+    "dh_bap": 0.0861,
+    "dh_barm": 0.0,
+    "dh_cob": 0.5099,
+    "dh_breadcake": 0.0199,
+    "n_od": 247,
+    "n_dh": 151
+   },
+   {
+    "county": "Oxfordshire",
+    "od_roll": 0.787,
+    "od_bun": 0.0556,
+    "od_bap": 0.1019,
+    "od_barm": 0.037,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.663,
+    "dh_bun": 0.1304,
+    "dh_bap": 0.1739,
+    "dh_barm": 0.0217,
+    "dh_cob": 0.0109,
+    "dh_breadcake": 0.0,
+    "n_od": 108,
+    "n_dh": 92
+   },
+   {
+    "county": "Shropshire",
+    "od_roll": 0.6,
+    "od_bun": 0.13,
+    "od_bap": 0.17,
+    "od_barm": 0.02,
+    "od_cob": 0.08,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.5244,
+    "dh_bun": 0.0854,
+    "dh_bap": 0.2561,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0854,
+    "dh_breadcake": 0.0,
+    "n_od": 100,
+    "n_dh": 82
+   },
+   {
+    "county": "Somerset",
+    "od_roll": 0.8222,
+    "od_bun": 0.0815,
+    "od_bap": 0.0889,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.6774,
+    "dh_bun": 0.1183,
+    "dh_bap": 0.1613,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0215,
+    "dh_breadcake": 0.0108,
+    "n_od": 135,
+    "n_dh": 93
+   },
+   {
+    "county": "South Yorkshire",
+    "od_roll": 0.1818,
+    "od_bun": 0.1091,
+    "od_bap": 0.1121,
+    "od_barm": 0.0242,
+    "od_cob": 0.0212,
+    "od_breadcake": 0.4424,
+    "dh_roll": 0.3418,
+    "dh_bun": 0.0509,
+    "dh_bap": 0.0836,
+    "dh_barm": 0.0109,
+    "dh_cob": 0.0545,
+    "dh_breadcake": 0.4073,
+    "n_od": 330,
+    "n_dh": 275
+   },
+   {
+    "county": "Staffordshire",
+    "od_roll": 0.2512,
+    "od_bun": 0.0977,
+    "od_bap": 0.4698,
+    "od_barm": 0.0186,
+    "od_cob": 0.1581,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.4247,
+    "dh_bun": 0.105,
+    "dh_bap": 0.2831,
+    "dh_barm": 0.0183,
+    "dh_cob": 0.1644,
+    "dh_breadcake": 0.0,
+    "n_od": 215,
+    "n_dh": 219
+   },
+   {
+    "county": "Suffolk",
+    "od_roll": 0.8585,
+    "od_bun": 0.0283,
+    "od_bap": 0.1132,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7338,
+    "dh_bun": 0.1088,
+    "dh_bap": 0.0856,
+    "dh_barm": 0.0023,
+    "dh_cob": 0.0532,
+    "dh_breadcake": 0.0069,
+    "n_od": 106,
+    "n_dh": 432
+   },
+   {
+    "county": "Surrey",
+    "od_roll": 0.7122,
+    "od_bun": 0.1439,
+    "od_bap": 0.0791,
+    "od_barm": 0.0,
+    "od_cob": 0.0144,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.74,
+    "dh_bun": 0.1,
+    "dh_bap": 0.1,
+    "dh_barm": 0.0067,
+    "dh_cob": 0.0467,
+    "dh_breadcake": 0.0067,
+    "n_od": 139,
+    "n_dh": 150
+   },
+   {
+    "county": "Tyne and Wear",
+    "od_roll": 0.1128,
+    "od_bun": 0.7594,
+    "od_bap": 0.0865,
+    "od_barm": 0.0188,
+    "od_cob": 0.0075,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.2918,
+    "dh_bun": 0.5365,
+    "dh_bap": 0.103,
+    "dh_barm": 0.0043,
+    "dh_cob": 0.0172,
+    "dh_breadcake": 0.0129,
+    "n_od": 266,
+    "n_dh": 233
+   },
+   {
+    "county": "Warwickshire",
+    "od_roll": 0.53,
+    "od_bun": 0.15,
+    "od_bap": 0.05,
+    "od_barm": 0.0,
+    "od_cob": 0.05,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.55,
+    "dh_bun": 0.05,
+    "dh_bap": 0.1,
+    "dh_barm": 0.0,
+    "dh_cob": 0.09,
+    "dh_breadcake": 0.0,
+    "n_od": 100,
+    "n_dh": 100
+   },
+   {
+    "county": "West Midlands",
+    "od_roll": 0.3182,
+    "od_bun": 0.1119,
+    "od_bap": 0.2063,
+    "od_barm": 0.014,
+    "od_cob": 0.2378,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.3573,
+    "dh_bun": 0.0464,
+    "dh_bap": 0.1346,
+    "dh_barm": 0.0093,
+    "dh_cob": 0.3828,
+    "dh_breadcake": 0.0046,
+    "n_od": 286,
+    "n_dh": 431
+   },
+   {
+    "county": "West Sussex",
+    "od_roll": 0.8087,
+    "od_bun": 0.113,
+    "od_bap": 0.0783,
+    "od_barm": 0.0,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.7419,
+    "dh_bun": 0.0968,
+    "dh_bap": 0.1048,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0403,
+    "dh_breadcake": 0.0081,
+    "n_od": 115,
+    "n_dh": 124
+   },
+   {
+    "county": "West Yorkshire",
+    "od_roll": 0.2119,
+    "od_bun": 0.1461,
+    "od_bap": 0.1811,
+    "od_barm": 0.0123,
+    "od_cob": 0.0103,
+    "od_breadcake": 0.1008,
+    "dh_roll": 0.4865,
+    "dh_bun": 0.0874,
+    "dh_bap": 0.1844,
+    "dh_barm": 0.0111,
+    "dh_cob": 0.0334,
+    "dh_breadcake": 0.132,
+    "n_od": 486,
+    "n_dh": 629
+   },
+   {
+    "county": "Wiltshire",
+    "od_roll": 0.8062,
+    "od_bun": 0.093,
+    "od_bap": 0.062,
+    "od_barm": 0.0078,
+    "od_cob": 0.0,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.746,
+    "dh_bun": 0.1111,
+    "dh_bap": 0.1111,
+    "dh_barm": 0.0,
+    "dh_cob": 0.0317,
+    "dh_breadcake": 0.0,
+    "n_od": 129,
+    "n_dh": 63
+   },
+   {
+    "county": "Worcestershire",
+    "od_roll": 0.6518,
+    "od_bun": 0.0625,
+    "od_bap": 0.125,
+    "od_barm": 0.0089,
+    "od_cob": 0.1339,
+    "od_breadcake": 0.0,
+    "dh_roll": 0.5259,
+    "dh_bun": 0.1111,
+    "dh_bap": 0.1481,
+    "dh_barm": 0.0148,
+    "dh_cob": 0.1852,
+    "dh_breadcake": 0.0,
+    "n_od": 112,
+    "n_dh": 135
+   }
+  ]
+ },
+ "yougov": {
+  "rows": [
+   {
+    "word": "cob",
+    "county": "Leicestershire",
+    "yougov": "majority",
+    "lo": 50,
+    "hi": 100,
+    "od": 0.5903,
+    "dh": 0.5806,
+    "n_od": 144,
+    "n_dh": 155,
+    "v_od": "within",
+    "v_dh": "within"
+   },
+   {
+    "word": "cob",
+    "county": "Nottinghamshire",
+    "yougov": "majority",
+    "lo": 50,
+    "hi": 100,
+    "od": 0.6964,
+    "dh": 0.5099,
+    "n_od": 247,
+    "n_dh": 151,
+    "v_od": "within",
+    "v_dh": "within"
+   },
+   {
+    "word": "cob",
+    "county": "Derbyshire",
+    "yougov": "majority",
+    "lo": 50,
+    "hi": 100,
+    "od": 0.5139,
+    "dh": 0.4803,
+    "n_od": 288,
+    "n_dh": 152,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "cob",
+    "county": "West Midlands",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.2378,
+    "dh": 0.3828,
+    "n_od": 286,
+    "n_dh": 431,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "cob",
+    "county": "Staffordshire",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.1581,
+    "dh": 0.1644,
+    "n_od": 215,
+    "n_dh": 219,
+    "v_od": "within",
+    "v_dh": "within"
+   },
+   {
+    "word": "cob",
+    "county": "Worcestershire",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.1339,
+    "dh": 0.1852,
+    "n_od": 112,
+    "n_dh": 135,
+    "v_od": "within",
+    "v_dh": "within"
+   },
+   {
+    "word": "bun",
+    "county": "Durham",
+    "yougov": "majority",
+    "lo": 50,
+    "hi": 100,
+    "od": 0.8289,
+    "dh": 0.472,
+    "n_od": 187,
+    "n_dh": 250,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "bun",
+    "county": "Tyne and Wear",
+    "yougov": "majority",
+    "lo": 50,
+    "hi": 100,
+    "od": 0.7594,
+    "dh": 0.5365,
+    "n_od": 266,
+    "n_dh": 233,
+    "v_od": "within",
+    "v_dh": "within"
+   },
+   {
+    "word": "bun",
+    "county": "Northumberland",
+    "yougov": "majority",
+    "lo": 50,
+    "hi": 100,
+    "od": 0.7011,
+    "dh": 0.4304,
+    "n_od": 87,
+    "n_dh": 79,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "bun",
+    "county": "North Yorkshire",
+    "yougov": "30 to 39%",
+    "lo": 30,
+    "hi": 39,
+    "od": 0.5141,
+    "dh": 0.3302,
+    "n_od": 354,
+    "n_dh": 642,
+    "v_od": "higher",
+    "v_dh": "within"
+   },
+   {
+    "word": "bun",
+    "county": "Cumbria",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.4167,
+    "dh": 0.2734,
+    "n_od": 108,
+    "n_dh": 139,
+    "v_od": "higher",
+    "v_dh": "within"
+   },
+   {
+    "word": "bun",
+    "county": "Lincolnshire",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.4236,
+    "dh": 0.3006,
+    "n_od": 144,
+    "n_dh": 173,
+    "v_od": "higher",
+    "v_dh": "higher"
+   },
+   {
+    "word": "bun",
+    "county": "Merseyside",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.1098,
+    "dh": 0.082,
+    "n_od": 528,
+    "n_dh": 256,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "bun",
+    "county": "East Riding of Yorkshire",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.3014,
+    "dh": 0.1429,
+    "n_od": 146,
+    "n_dh": 154,
+    "v_od": "higher",
+    "v_dh": "within"
+   },
+   {
+    "word": "barm",
+    "county": "Greater Manchester",
+    "yougov": "30 to 39%, most common",
+    "lo": 30,
+    "hi": 39,
+    "od": 0.4744,
+    "dh": 0.2173,
+    "n_od": 1619,
+    "n_dh": 382,
+    "v_od": "close",
+    "v_dh": "close"
+   },
+   {
+    "word": "barm",
+    "county": "Lancashire",
+    "yougov": "30 to 39%",
+    "lo": 30,
+    "hi": 39,
+    "od": 0.3135,
+    "dh": 0.1667,
+    "n_od": 740,
+    "n_dh": 252,
+    "v_od": "within",
+    "v_dh": "lower"
+   },
+   {
+    "word": "barm",
+    "county": "Merseyside",
+    "yougov": "20 to 29%, joint first",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.4716,
+    "dh": 0.2148,
+    "n_od": 528,
+    "n_dh": 256,
+    "v_od": "higher",
+    "v_dh": "within"
+   },
+   {
+    "word": "barm",
+    "county": "Cheshire",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.3458,
+    "dh": 0.1469,
+    "n_od": 347,
+    "n_dh": 177,
+    "v_od": "close",
+    "v_dh": "close"
+   },
+   {
+    "word": "bap",
+    "county": "Staffordshire",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.4698,
+    "dh": 0.2831,
+    "n_od": 215,
+    "n_dh": 219,
+    "v_od": "higher",
+    "v_dh": "within"
+   },
+   {
+    "word": "bap",
+    "county": "Cheshire",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.2651,
+    "dh": 0.1921,
+    "n_od": 347,
+    "n_dh": 177,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "bap",
+    "county": "Shropshire",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.17,
+    "dh": 0.2561,
+    "n_od": 100,
+    "n_dh": 82,
+    "v_od": "close",
+    "v_dh": "within"
+   },
+   {
+    "word": "bap",
+    "county": "Cornwall",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.1579,
+    "dh": 0.1957,
+    "n_od": 38,
+    "n_dh": 46,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "bap",
+    "county": "Devon",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.1345,
+    "dh": 0.1416,
+    "n_od": 119,
+    "n_dh": 113,
+    "v_od": "within",
+    "v_dh": "within"
+   },
+   {
+    "word": "bap",
+    "county": "West Midlands",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.2063,
+    "dh": 0.1346,
+    "n_od": 286,
+    "n_dh": 431,
+    "v_od": "close",
+    "v_dh": "within"
+   },
+   {
+    "word": "muffin",
+    "county": "Greater Manchester",
+    "yougov": "20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.2014,
+    "dh": null,
+    "n_od": 1619,
+    "n_dh": 382,
+    "v_od": "within",
+    "v_dh": "n/a"
+   },
+   {
+    "word": "teacake",
+    "county": "West Yorkshire",
+    "yougov": "30 to 39%, second",
+    "lo": 30,
+    "hi": 39,
+    "od": 0.3292,
+    "dh": null,
+    "n_od": 486,
+    "n_dh": 629,
+    "v_od": "within",
+    "v_dh": "n/a"
+   },
+   {
+    "word": "teacake",
+    "county": "Lancashire",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.2432,
+    "dh": null,
+    "n_od": 740,
+    "n_dh": 252,
+    "v_od": "close",
+    "v_dh": "n/a"
+   },
+   {
+    "word": "teacake",
+    "county": "Cumbria",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.2037,
+    "dh": null,
+    "n_od": 108,
+    "n_dh": 139,
+    "v_od": "close",
+    "v_dh": "n/a"
+   },
+   {
+    "word": "batch",
+    "county": "Warwickshire",
+    "yougov": "20 to 29%, second",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.22,
+    "dh": 0.19,
+    "n_od": 100,
+    "n_dh": 100,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "batch",
+    "county": "Merseyside",
+    "yougov": "10 to 19%",
+    "lo": 10,
+    "hi": 19,
+    "od": 0.1098,
+    "dh": 0.0703,
+    "n_od": 528,
+    "n_dh": 256,
+    "v_od": "within",
+    "v_dh": "close"
+   },
+   {
+    "word": "breadcake",
+    "county": "East Riding of Yorkshire",
+    "yougov": "something else 20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.363,
+    "dh": 0.4416,
+    "n_od": 146,
+    "n_dh": 154,
+    "v_od": "close",
+    "v_dh": "higher"
+   },
+   {
+    "word": "breadcake",
+    "county": "South Yorkshire",
+    "yougov": "something else 20 to 29%",
+    "lo": 20,
+    "hi": 29,
+    "od": 0.4424,
+    "dh": 0.4073,
+    "n_od": 330,
+    "n_dh": 275,
+    "v_od": "higher",
+    "v_dh": "higher"
+   }
+  ],
+  "n_statements": 32,
+  "verdicts_od": {
+   "within": 18,
+   "higher": 7,
+   "close": 7
+  },
+  "verdicts_dh": {
+   "within": 13,
+   "close": 11,
+   "higher": 3,
+   "lower": 1,
+   "n/a": 4
+  },
+  "england": {
+   "roll": 52,
+   "bun": 10,
+   "cob": 8,
+   "barm": 6,
+   "bap": 6,
+   "teacake": 4,
+   "muffin": 3,
+   "batch": 2,
+   "other": 3
+  }
+ },
+ "foodhub": {
+  "chip_butty": 58,
+  "chip_roll": 11,
+  "chip_sandwich": 6,
+  "chip_bap": 5.75,
+  "chip_barm": 4.85,
+  "chip_cob": 4,
+  "note": "Foodhub app survey reported by the Yorkshire Post, 11 Sep 2020; sample size not published"
+ },
+ "age": {
+  "n_with_age": 8426,
+  "n_dh_inside": 8463,
+  "cob": {
+   "zone": [
+    "Derbyshire",
+    "Leicestershire",
+    "Nottinghamshire"
+   ],
+   "n": 454,
+   "groups": [
+    {
+     "group": "Under 25",
+     "n": 66,
+     "k": 28,
+     "share": 0.42424242424242425,
+     "lo": 0.30340193303833835,
+     "hi": 0.5521059622912406
+    },
+    {
+     "group": "25 to 44",
+     "n": 158,
+     "k": 79,
+     "share": 0.5,
+     "lo": 0.4195239472149772,
+     "hi": 0.5804760527850228
+    },
+    {
+     "group": "45 to 64",
+     "n": 139,
+     "k": 85,
+     "share": 0.6115107913669064,
+     "lo": 0.5252131135785756,
+     "hi": 0.6929498984891661
+    },
+    {
+     "group": "65 and over",
+     "n": 91,
+     "k": 47,
+     "share": 0.5164835164835165,
+     "lo": 0.4092884436802107,
+     "hi": 0.6225760234396936
+    }
+   ],
+   "or_per_decade": 1.1079610669751716,
+   "or_lo": 1.003608757655243,
+   "or_hi": 1.2231636248380118,
+   "p": 0.042220674447266356
+  },
+  "batch": {
+   "zone": [
+    "Merseyside",
+    "Warwickshire",
+    "West Midlands"
+   ],
+   "n": 786,
+   "groups": [
+    {
+     "group": "Under 25",
+     "n": 84,
+     "k": 4,
+     "share": 0.047619047619047616,
+     "lo": 0.01312507227049722,
+     "hi": 0.1174569713718296
+    },
+    {
+     "group": "25 to 44",
+     "n": 192,
+     "k": 14,
+     "share": 0.07291666666666667,
+     "lo": 0.0404355579549277,
+     "hi": 0.11931607028424576
+    },
+    {
+     "group": "45 to 64",
+     "n": 310,
+     "k": 28,
+     "share": 0.09032258064516129,
+     "lo": 0.06085904061347171,
+     "hi": 0.12789375076030912
+    },
+    {
+     "group": "65 and over",
+     "n": 200,
+     "k": 16,
+     "share": 0.08,
+     "lo": 0.04641760839982255,
+     "hi": 0.1266648560220817
+    }
+   ],
+   "or_per_decade": 1.0385134067445625,
+   "or_lo": 0.8963417349476906,
+   "or_hi": 1.203235388845458,
+   "p": 0.6148974236004302
+  },
+  "barm": {
+   "zone": [
+    "Cheshire",
+    "Greater Manchester",
+    "Lancashire",
+    "Merseyside"
+   ],
+   "n": 1064,
+   "groups": [
+    {
+     "group": "Under 25",
+     "n": 101,
+     "k": 16,
+     "share": 0.15841584158415842,
+     "lo": 0.09334661946841814,
+     "hi": 0.24447293547776544
+    },
+    {
+     "group": "25 to 44",
+     "n": 360,
+     "k": 80,
+     "share": 0.2222222222222222,
+     "lo": 0.18032650975360373,
+     "hi": 0.2687536611210298
+    },
+    {
+     "group": "45 to 64",
+     "n": 337,
+     "k": 68,
+     "share": 0.20178041543026706,
+     "lo": 0.16023435116585788,
+     "hi": 0.24865632524698458
+    },
+    {
+     "group": "65 and over",
+     "n": 266,
+     "k": 42,
+     "share": 0.15789473684210525,
+     "lo": 0.11622791500866704,
+     "hi": 0.2073756634958281
+    }
+   ],
+   "or_per_decade": 0.955778746402538,
+   "or_lo": 0.8793128587347692,
+   "or_hi": 1.0388941808371233,
+   "p": 0.287739048204555
+  },
+  "bun": {
+   "zone": [
+    "Cumbria",
+    "Durham",
+    "Lincolnshire",
+    "North Yorkshire",
+    "Northumberland",
+    "Tyne and Wear"
+   ],
+   "n": 1514,
+   "groups": [
+    {
+     "group": "Under 25",
+     "n": 234,
+     "k": 79,
+     "share": 0.33760683760683763,
+     "lo": 0.27728629723850046,
+     "hi": 0.4021025665678685
+    },
+    {
+     "group": "25 to 44",
+     "n": 477,
+     "k": 180,
+     "share": 0.37735849056603776,
+     "lo": 0.3336887608068685,
+     "hi": 0.42255880841755966
+    },
+    {
+     "group": "45 to 64",
+     "n": 460,
+     "k": 202,
+     "share": 0.4391304347826087,
+     "lo": 0.3932101813256008,
+     "hi": 0.48583821027723995
+    },
+    {
+     "group": "65 and over",
+     "n": 343,
+     "k": 116,
+     "share": 0.33819241982507287,
+     "lo": 0.28825675492584674,
+     "hi": 0.39095054828737885
+    }
+   ],
+   "or_per_decade": 1.0018204234169683,
+   "or_lo": 0.9495499408072794,
+   "or_hi": 1.0569682726977847,
+   "p": 0.9469610843535833
+  },
+  "bap": {
+   "zone": [
+    "Clwyd",
+    "Northern Ireland",
+    "Staffordshire"
+   ],
+   "n": 219,
+   "groups": [
+    {
+     "group": "Under 25",
+     "n": 8,
+     "k": 2,
+     "share": 0.25,
+     "lo": 0.03185402624994424,
+     "hi": 0.650855794412824
+    },
+    {
+     "group": "25 to 44",
+     "n": 55,
+     "k": 17,
+     "share": 0.3090909090909091,
+     "lo": 0.1914464114336216,
+     "hi": 0.4481297453437747
+    },
+    {
+     "group": "45 to 64",
+     "n": 86,
+     "k": 28,
+     "share": 0.32558139534883723,
+     "lo": 0.22840694833967454,
+     "hi": 0.435161842353117
+    },
+    {
+     "group": "65 and over",
+     "n": 70,
+     "k": 15,
+     "share": 0.21428571428571427,
+     "lo": 0.1251835714922471,
+     "hi": 0.3286851452789497
+    }
+   ],
+   "or_per_decade": 0.874121621328823,
+   "or_lo": 0.7325394005531142,
+   "or_hi": 1.0430682749591276,
+   "p": 0.13563199388147895
+  },
+  "roll": {
+   "zone": null,
+   "n": 8426,
+   "groups": [
+    {
+     "group": "Under 25",
+     "n": 1186,
+     "k": 699,
+     "share": 0.5893760539629005,
+     "lo": 0.5607635673435896,
+     "hi": 0.6175442118395752
+    },
+    {
+     "group": "25 to 44",
+     "n": 2624,
+     "k": 1323,
+     "share": 0.5041920731707317,
+     "lo": 0.4848756116354416,
+     "hi": 0.5234991704367704
+    },
+    {
+     "group": "45 to 64",
+     "n": 2716,
+     "k": 1410,
+     "share": 0.5191458026509573,
+     "lo": 0.500159275805564,
+     "hi": 0.5380910181950939
+    },
+    {
+     "group": "65 and over",
+     "n": 1900,
+     "k": 1034,
+     "share": 0.5442105263157895,
+     "lo": 0.5214993606734664,
+     "hi": 0.5667850151183332
+    }
+   ],
+   "or_per_decade": 0.989326055330057,
+   "or_lo": 0.9675065944419299,
+   "or_hi": 1.011637594387143,
+   "p": 0.3456240241488554
+  }
+ },
+ "wikipedia": [
+  {
+   "word": "barm",
+   "article": "Barm cake / List of bread rolls",
+   "claim": "North West England: Liverpool, Manchester, South and West Lancashire",
+   "counties": [
+    "Merseyside",
+    "Greater Manchester",
+    "Lancashire"
+   ],
+   "n_in": 3777,
+   "k_in": 1429,
+   "k": 1706,
+   "share_of_word_in_region": 0.8376318874560376,
+   "share_of_answers_in_region": 0.1884918654556343,
+   "share_in": 0.37834259994704794,
+   "share_out": 0.017034622716930077,
+   "ratio": 22.21021306042941
+  },
+  {
+   "word": "batch",
+   "article": "List of bread rolls",
+   "claim": "Warwickshire and Cheshire, especially Coventry and the Wirral",
+   "counties": [
+    "Warwickshire",
+    "West Midlands",
+    "Cheshire",
+    "Merseyside"
+   ],
+   "n_in": 2225,
+   "k_in": 189,
+   "k": 231,
+   "share_of_word_in_region": 0.8181818181818182,
+   "share_of_answers_in_region": 0.11103902585088332,
+   "share_in": 0.08494382022471911,
+   "share_out": 0.002357828552180991,
+   "ratio": 36.026292134831465
+  },
+  {
+   "word": "breadcake",
+   "article": "List of bread rolls",
+   "claim": "Yorkshire, and Annesley in north Nottinghamshire",
+   "counties": [
+    "West Yorkshire",
+    "South Yorkshire",
+    "North Yorkshire",
+    "East Riding of Yorkshire",
+    "Nottinghamshire"
+   ],
+   "n_in": 3414,
+   "k_in": 550,
+   "k": 641,
+   "share_of_word_in_region": 0.858034321372855,
+   "share_of_answers_in_region": 0.17037628505838906,
+   "share_in": 0.1611013473930873,
+   "share_out": 0.005474013474494706,
+   "ratio": 29.430206583106408
+  },
+  {
+   "word": "cob",
+   "article": "List of bread rolls",
+   "claim": "the English Midlands",
+   "counties": [
+    "Derbyshire",
+    "Nottinghamshire",
+    "Leicestershire",
+    "Rutland",
+    "Lincolnshire",
+    "Northamptonshire",
+    "West Midlands",
+    "Staffordshire",
+    "Warwickshire",
+    "Worcestershire",
+    "Shropshire",
+    "Herefordshire"
+   ],
+   "n_in": 3594,
+   "k_in": 1059,
+   "k": 1458,
+   "share_of_word_in_region": 0.7263374485596708,
+   "share_of_answers_in_region": 0.17935921748677514,
+   "share_in": 0.29465776293823037,
+   "share_out": 0.024264169301873025,
+   "ratio": 12.143739984351528
+  },
+  {
+   "word": "teacake",
+   "article": "Teacake",
+   "claim": "a plain roll in East Lancashire, the West Riding of Yorkshire and Cumbria",
+   "counties": [
+    "Lancashire",
+    "West Yorkshire",
+    "Cumbria"
+   ],
+   "n_in": 2354,
+   "k_in": 362,
+   "k": 463,
+   "share_of_word_in_region": 0.7818574514038877,
+   "share_of_answers_in_region": 0.11747679409122667,
+   "share_in": 0.15378079864061173,
+   "share_out": 0.005711377516399004,
+   "ratio": 26.92534300158988
+  },
+  {
+   "word": "bun",
+   "article": "List of bread rolls",
+   "claim": "a bread roll primarily in Northern England",
+   "counties": [
+    "Northumberland",
+    "Tyne and Wear",
+    "Durham",
+    "North Yorkshire",
+    "Cumbria",
+    "Lancashire",
+    "Greater Manchester",
+    "Merseyside",
+    "West Yorkshire",
+    "South Yorkshire",
+    "East Riding of Yorkshire"
+   ],
+   "n_in": 8142,
+   "k_in": 1863,
+   "k": 3038,
+   "share_of_word_in_region": 0.6132323897300855,
+   "share_of_answers_in_region": 0.4063279768439964,
+   "share_in": 0.2288135593220339,
+   "share_out": 0.09877269670477472,
+   "ratio": 2.3165668950595024
+  },
+  {
+   "word": "bun",
+   "article": "Bun",
+   "claim": "savoury (a roll) in Northern Ireland",
+   "counties": [
+    "Northern Ireland"
+   ],
+   "n_in": 191,
+   "k_in": 4,
+   "k": 3038,
+   "share_of_word_in_region": 0.0013166556945358788,
+   "share_of_answers_in_region": 0.00953188941012077,
+   "share_in": 0.020942408376963352,
+   "share_out": 0.15286945130246385,
+   "ratio": 0.13699537872695836
+  },
+  {
+   "word": "bap",
+   "article": "List of bread rolls",
+   "claim": "the Belfast bap (Northern Ireland)",
+   "counties": [
+    "Northern Ireland"
+   ],
+   "n_in": 191,
+   "k_in": 169,
+   "k": 2564,
+   "share_of_word_in_region": 0.06591263650546021,
+   "share_of_answers_in_region": 0.00953188941012077,
+   "share_in": 0.8848167539267016,
+   "share_out": 0.12067314959439714,
+   "ratio": 7.332341592978391
+  },
+  {
+   "word": "roll",
+   "article": "Morning roll",
+   "claim": "the morning roll, Scotland",
+   "counties": [
+    "Aberdeen City",
+    "Aberdeenshire",
+    "Angus",
+    "Argyll and Bute",
+    "City of Edinburgh",
+    "Clackmannanshire",
+    "Dumfries and Galloway",
+    "Dundee City",
+    "East Ayrshire",
+    "East Dunbartonshire",
+    "East Lothian",
+    "East Renfrewshire",
+    "Falkirk",
+    "Fife",
+    "Glasgow City",
+    "Highland",
+    "Inverclyde",
+    "Midlothian",
+    "Moray",
+    "Na h-Eileanan Siar",
+    "North Ayrshire",
+    "North Lanarkshire",
+    "Orkney Islands",
+    "Perth and Kinross",
+    "Renfrewshire",
+    "Scottish Borders",
+    "Shetland Islands",
+    "South Ayrshire",
+    "South Lanarkshire",
+    "Stirling",
+    "West Dunbartonshire",
+    "West Lothian"
+   ],
+   "n_in": 536,
+   "k_in": 502,
+   "k": 9317,
+   "share_of_word_in_region": 0.05388000429322743,
+   "share_of_answers_in_region": 0.026749176564527397,
+   "share_in": 0.9365671641791045,
+   "share_out": 0.4520049225720439,
+   "ratio": 2.072028682452739
+  }
+ ],
+ "business": {
+  "fsa_total": 614437,
+  "osm_total": 60691,
+  "fsa_placement": {
+   "la": 101560,
+   "own": 460070,
+   "district": 52807
+  },
+  "fsa_kept": {
+   "roll": 210,
+   "bap": 164,
+   "cob": 66,
+   "batch": 8,
+   "barm": 3,
+   "ovenbottom": 1,
+   "stottie": 5,
+   "breadcake": 2,
+   "scuffler": 2,
+   "teacake": 3,
+   "bun": 483,
+   "buttery": 23,
+   "blaa": 0,
+   "butty": 192,
+   "sarnie": 30,
+   "sandwich": 1006,
+   "piece": 19,
+   "crusty": 52
+  },
+  "osm_kept": {
+   "roll": 47,
+   "bap": 26,
+   "cob": 16,
+   "batch": 4,
+   "barm": 1,
+   "ovenbottom": 0,
+   "stottie": 3,
+   "breadcake": 0,
+   "scuffler": 1,
+   "teacake": 0,
+   "bun": 58,
+   "buttery": 10,
+   "blaa": 0,
+   "butty": 51,
+   "sarnie": 12,
+   "sandwich": 448,
+   "piece": 8,
+   "crusty": 16
+  },
+  "unique_kept": {
+   "roll": 225,
+   "bap": 174,
+   "cob": 68,
+   "batch": 10,
+   "barm": 4,
+   "ovenbottom": 1,
+   "stottie": 7,
+   "breadcake": 2,
+   "scuffler": 1,
+   "teacake": 3,
+   "bun": 464,
+   "buttery": 28,
+   "blaa": 0,
+   "butty": 206,
+   "sarnie": 39,
+   "sandwich": 1237,
+   "piece": 15,
+   "crusty": 52
+  },
+  "raw_matches_fsa": {
+   "roll": 380,
+   "bap": 183,
+   "cob": 78,
+   "batch": 147,
+   "barm": 3,
+   "ovenbottom": 1,
+   "stottie": 5,
+   "breadcake": 2,
+   "scuffler": 2,
+   "teacake": 3,
+   "bun": 496,
+   "buttery": 27,
+   "blaa": 1,
+   "butty": 192,
+   "sarnie": 30,
+   "sandwich": 1031,
+   "piece": 125,
+   "crusty": 52
+  },
+  "dropped_fsa": {
+   "roll": 170,
+   "bap": 19,
+   "cob": 12,
+   "batch": 139,
+   "barm": 0,
+   "ovenbottom": 0,
+   "stottie": 0,
+   "breadcake": 0,
+   "scuffler": 0,
+   "teacake": 0,
+   "bun": 13,
+   "buttery": 4,
+   "blaa": 1,
+   "butty": 0,
+   "sarnie": 0,
+   "sandwich": 25,
+   "piece": 106,
+   "crusty": 0
+  },
+  "fsa_any_roll_word": 461,
+  "fsa_any_sandwich_word": 1244,
+  "fsa_any_kept": 2238,
+  "rate_any_roll_per_10k": 7.502803379353782,
+  "drop_reasons": [
+   {
+    "word": "batch",
+    "reason": "batch not used as a bread word (small batch, batch cooking, brewing)",
+    "n": 153
+   },
+   {
+    "word": "piece",
+    "reason": "piece not used as a sandwich word (piece of cake etc.)",
+    "n": 115
+   },
+   {
+    "word": "roll",
+    "reason": "rock and roll pun",
+    "n": 97
+   },
+   {
+    "word": "roll",
+    "reason": "Asian roll dish or rice/noodle context",
+    "n": 23
+   },
+   {
+    "word": "roll",
+    "reason": "ice cream, sweet roll or bowl food",
+    "n": 19
+   },
+   {
+    "word": "roll",
+    "reason": "name, place, game or brand, not bread",
+    "n": 17
+   },
+   {
+    "word": "sandwich",
+    "reason": "Sandwich, the town in Kent",
+    "n": 15
+   },
+   {
+    "word": "roll",
+    "reason": "wrap, kebab or South Asian roll",
+    "n": 11
+   },
+   {
+    "word": "sandwich",
+    "reason": "Subway chain (a brand name, not a local choice)",
+    "n": 10
+   },
+   {
+    "word": "bap",
+    "reason": "Korean bap (rice)",
+    "n": 10
+   },
+   {
+    "word": "roll",
+    "reason": "verb sense (roll on, roll up)",
+    "n": 9
+   },
+   {
+    "word": "bap",
+    "reason": "BAPS Hindu organisation",
+    "n": 8
+   },
+   {
+    "word": "roll",
+    "reason": "pastry roll, not a bread roll",
+    "n": 7
+   },
+   {
+    "word": "bun",
+    "reason": "Chinese steamed bun",
+    "n": 6
+   },
+   {
+    "word": "roll",
+    "reason": "ice cream or rolled dessert",
+    "n": 5
+   },
+   {
+    "word": "bap",
+    "reason": "boom bap (a hip hop style)",
+    "n": 4
+   },
+   {
+    "word": "bun",
+    "reason": "Gaelic bun-sgoil (primary school)",
+    "n": 4
+   },
+   {
+    "word": "cob",
+    "reason": "place or pub name (swan, Welsh embankment)",
+    "n": 4
+   },
+   {
+    "word": "bun",
+    "reason": "Vietnamese bun noodles",
+    "n": 3
+   },
+   {
+    "word": "cob",
+    "reason": "building or childcare, not bread",
+    "n": 3
+   },
+   {
+    "word": "cob",
+    "reason": "abbreviation, Welsh place or animal feed",
+    "n": 3
+   },
+   {
+    "word": "buttery",
+    "reason": "institutional buttery (provisions room)",
+    "n": 3
+   },
+   {
+    "word": "buttery",
+    "reason": "a name, not an Aberdeen rowie",
+    "n": 2
+   },
+   {
+    "word": "cob",
+    "reason": "cob as a horse",
+    "n": 2
+   },
+   {
+    "word": "blaa",
+    "reason": "'bla bla' pun, not a Waterford blaa",
+    "n": 1
+   },
+   {
+    "word": "roll",
+    "reason": "seafood roll in the American style",
+    "n": 1
+   },
+   {
+    "word": "roll",
+    "reason": "rock and roll or other non-bread sense",
+    "n": 1
+   }
+  ],
+  "fsa_btype_kept": {
+   "roll": {
+    "7846": 53,
+    "7844": 53,
+    "4613": 14,
+    "1": 41,
+    "7841": 44,
+    "7845": 2,
+    "5": 1,
+    "7839": 1,
+    "7838": 1
+   },
+   "bap": {
+    "7846": 74,
+    "7841": 16,
+    "1": 40,
+    "7844": 31,
+    "5": 2,
+    "7839": 1
+   },
+   "cob": {
+    "7844": 24,
+    "7841": 4,
+    "1": 18,
+    "7846": 6,
+    "4613": 12,
+    "7843": 1,
+    "7839": 1
+   },
+   "butty": {
+    "7846": 56,
+    "7841": 13,
+    "7844": 64,
+    "1": 46,
+    "4613": 10,
+    "5": 1,
+    "7843": 1,
+    "7840": 1
+   },
+   "sandwich": {
+    "7844": 447,
+    "1": 369,
+    "7841": 55,
+    "7846": 49,
+    "7839": 17,
+    "4613": 59,
+    "7843": 2,
+    "7": 2,
+    "7842": 1,
+    "7845": 4,
+    "5": 1
+   }
+  },
+  "vs_survey": {
+   "roll": {
+    "names": 225,
+    "names_in_top_counties": 144,
+    "share_names_in_top_counties": 0.64,
+    "share_businesses_in_top_counties": 0.7016341789312818,
+    "top_counties": [
+     "Aberdeen City",
+     "Aberdeenshire",
+     "Angus",
+     "Bedfordshire",
+     "Berkshire",
+     "Bristol",
+     "Buckinghamshire",
+     "Cambridgeshire",
+     "City of Edinburgh",
+     "Cornwall",
+     "Cumbria",
+     "Devon",
+     "Dorset",
+     "Dumfries and Galloway",
+     "Dyfed",
+     "East Dunbartonshire",
+     "East Sussex",
+     "Essex",
+     "Falkirk",
+     "Fife",
+     "Glasgow City",
+     "Gloucestershire",
+     "Greater London",
+     "Gwent",
+     "Hampshire",
+     "Herefordshire",
+     "Hertfordshire",
+     "Highland",
+     "Inverclyde",
+     "Isle of Wight",
+     "Kent",
+     "Lincolnshire",
+     "Mid Glamorgan",
+     "Midlothian",
+     "Norfolk",
+     "North Ayrshire",
+     "North Lanarkshire",
+     "Northamptonshire",
+     "Oxfordshire",
+     "Perth and Kinross",
+     "Powys",
+     "Renfrewshire",
+     "Scottish Borders",
+     "Shropshire",
+     "Somerset",
+     "South Glamorgan",
+     "South Lanarkshire",
+     "Stirling",
+     "Suffolk",
+     "Surrey",
+     "Warwickshire",
+     "West Glamorgan",
+     "West Lothian",
+     "West Midlands",
+     "West Sussex",
+     "West Yorkshire",
+     "Wiltshire",
+     "Worcestershire"
+    ],
+    "spearman_rho": -0.13677126880672452,
+    "spearman_p": 0.3103438102892777,
+    "n_counties": 57
+   },
+   "bap": {
+    "names": 174,
+    "names_in_top_counties": 12,
+    "share_names_in_top_counties": 0.06896551724137931,
+    "share_businesses_in_top_counties": 0.056507013737779464,
+    "top_counties": [
+     "Clwyd",
+     "Gwynedd",
+     "Staffordshire",
+     "Northern Ireland"
+    ],
+    "spearman_rho": 0.3832163510463601,
+    "spearman_p": 0.0032573504959314058,
+    "n_counties": 57
+   },
+   "cob": {
+    "names": 68,
+    "names_in_top_counties": 38,
+    "share_names_in_top_counties": 0.5588235294117647,
+    "share_businesses_in_top_counties": 0.04660363877826368,
+    "top_counties": [
+     "Derbyshire",
+     "Leicestershire",
+     "Nottinghamshire"
+    ],
+    "spearman_rho": 0.545002264044647,
+    "spearman_p": 1.1686445282114754e-05,
+    "n_counties": 57
+   },
+   "barm": {
+    "names": 4,
+    "names_in_top_counties": 4,
+    "share_names_in_top_counties": 1.0,
+    "share_businesses_in_top_counties": 0.09752667889466292,
+    "top_counties": [
+     "Cheshire",
+     "Greater Manchester",
+     "Lancashire",
+     "Merseyside"
+    ],
+    "spearman_rho": 0.31236320033240667,
+    "spearman_p": 0.018002382300671176,
+    "n_counties": 57
+   },
+   "batch": {
+    "names": 10,
+    "names_in_top_counties": 0,
+    "share_names_in_top_counties": 0.0,
+    "share_businesses_in_top_counties": 0.0,
+    "top_counties": [],
+    "spearman_rho": 0.38363516101315,
+    "spearman_p": 0.0032208659666079875,
+    "n_counties": 57
+   },
+   "breadcake": {
+    "names": 2,
+    "names_in_top_counties": 1,
+    "share_names_in_top_counties": 0.5,
+    "share_businesses_in_top_counties": 0.02813307141334262,
+    "top_counties": [
+     "East Riding of Yorkshire",
+     "South Yorkshire"
+    ],
+    "spearman_rho": 0.32495636600783284,
+    "spearman_p": 0.013649740695691592,
+    "n_counties": 57
+   },
+   "bun": {
+    "names": 464,
+    "names_in_top_counties": 13,
+    "share_names_in_top_counties": 0.028017241379310345,
+    "share_businesses_in_top_counties": 0.05236989308912061,
+    "top_counties": [
+     "Durham",
+     "North Yorkshire",
+     "Northumberland",
+     "Tyne and Wear"
+    ],
+    "spearman_rho": -0.16782536847097917,
+    "spearman_p": 0.21208401958214795,
+    "n_counties": 57
+   }
+  },
+  "batch_zone": {
+   "counties": [
+    "Merseyside",
+    "Warwickshire",
+    "West Midlands"
+   ],
+   "names_in_zone": 8,
+   "names_in_zone_or_leics": 10,
+   "share_businesses_in_zone": 0.0673185371323667
+  },
+  "butty_top": [
+   {
+    "county": "Lancashire",
+    "butty": 36,
+    "sandwich_words": 95,
+    "butty_share": 0.3789
+   },
+   {
+    "county": "Warwickshire",
+    "butty": 5,
+    "sandwich_words": 16,
+    "butty_share": 0.3125
+   },
+   {
+    "county": "Greater Manchester",
+    "butty": 35,
+    "sandwich_words": 130,
+    "butty_share": 0.2692
+   },
+   {
+    "county": "Lincolnshire",
+    "butty": 3,
+    "sandwich_words": 14,
+    "butty_share": 0.2143
+   },
+   {
+    "county": "Clwyd",
+    "butty": 4,
+    "sandwich_words": 20,
+    "butty_share": 0.2
+   },
+   {
+    "county": "Staffordshire",
+    "butty": 5,
+    "sandwich_words": 25,
+    "butty_share": 0.2
+   },
+   {
+    "county": "North Yorkshire",
+    "butty": 7,
+    "sandwich_words": 35,
+    "butty_share": 0.2
+   },
+   {
+    "county": "Cheshire",
+    "butty": 9,
+    "sandwich_words": 46,
+    "butty_share": 0.1957
+   }
+  ],
+  "butty_bottom": [
+   {
+    "county": "City of Edinburgh",
+    "butty": 0,
+    "sandwich_words": 18,
+    "butty_share": 0.0
+   },
+   {
+    "county": "Hampshire",
+    "butty": 0,
+    "sandwich_words": 20,
+    "butty_share": 0.0
+   },
+   {
+    "county": "Dorset",
+    "butty": 0,
+    "sandwich_words": 13,
+    "butty_share": 0.0
+   },
+   {
+    "county": "Essex",
+    "butty": 0,
+    "sandwich_words": 37,
+    "butty_share": 0.0
+   },
+   {
+    "county": "Wiltshire",
+    "butty": 0,
+    "sandwich_words": 10,
+    "butty_share": 0.0
+   }
+  ],
+  "butty_national_share": 0.13760855043420173,
+  "butty_nw_share": 0.2680115273775216,
+  "butty_nw_share_of_butties": 0.45145631067961167,
+  "nw_share_of_fsa": 0.10720220299233282,
+  "london_butty": 2,
+  "london_sandwich_words": 105,
+  "london_share_fsa": 0.13307955087340118,
+  "barm_names": [
+   {
+    "source": "FSA",
+    "name": "Millers Barms",
+    "county": "Lancashire"
+   },
+   {
+    "source": "FSA",
+    "name": "Cafe Barm",
+    "county": "Greater Manchester"
+   },
+   {
+    "source": "FSA",
+    "name": "Barm And Beyond",
+    "county": "Greater Manchester"
+   },
+   {
+    "source": "OSM",
+    "name": "Barm & Beyond",
+    "county": "Greater Manchester"
+   }
+  ],
+  "scuffler_names": [
+   {
+    "source": "FSA",
+    "name": "Scufflers",
+    "county": "West Yorkshire"
+   },
+   {
+    "source": "FSA",
+    "name": "Scufflers",
+    "county": "West Yorkshire"
+   },
+   {
+    "source": "OSM",
+    "name": "Scufflers",
+    "county": "West Yorkshire"
+   }
+  ],
+  "stottie_names": [
+   {
+    "source": "FSA",
+    "name": "Stottie",
+    "county": "Tyne and Wear"
+   },
+   {
+    "source": "FSA",
+    "name": "The Stottie Shoppe And Snack Shack",
+    "county": "Leicestershire"
+   },
+   {
+    "source": "FSA",
+    "name": "Stotties Coffee Shop",
+    "county": "Midlothian"
+   },
+   {
+    "source": "FSA",
+    "name": "THE GEORDIE STOTTIE",
+    "county": "Tyne and Wear"
+   },
+   {
+    "source": "FSA",
+    "name": "The Stottie Shop",
+    "county": "Warwickshire"
+   },
+   {
+    "source": "OSM",
+    "name": "The Stottie Shop",
+    "county": "Leicestershire"
+   },
+   {
+    "source": "OSM",
+    "name": "Stotties",
+    "county": "Midlothian"
+   },
+   {
+    "source": "OSM",
+    "name": "The Stottie Shop",
+    "county": "Warwickshire"
+   }
+  ],
+  "breadcake_names": [
+   {
+    "source": "FSA",
+    "name": "Breadcakes Galore",
+    "county": "East Riding of Yorkshire"
+   },
+   {
+    "source": "FSA",
+    "name": "It's A Breadcake",
+    "county": "West Yorkshire"
+   }
+  ],
+  "batch_names": [
+   {
+    "source": "FSA",
+    "name": "Balmer's Batch Bar",
+    "county": "West Midlands"
+   },
+   {
+    "source": "FSA",
+    "name": "Batch Bar",
+    "county": "West Midlands"
+   },
+   {
+    "source": "FSA",
+    "name": "Deans Batch Hatch",
+    "county": "West Midlands"
+   },
+   {
+    "source": "FSA",
+    "name": "The Batch Bar",
+    "county": "West Midlands"
+   },
+   {
+    "source": "FSA",
+    "name": "The Batch Hatch",
+    "county": "West Midlands"
+   },
+   {
+    "source": "FSA",
+    "name": "Triple Ate Batch Bar",
+    "county": "West Midlands"
+   },
+   {
+    "source": "FSA",
+    "name": "Divine Batch Bar @ The Royal Oak",
+    "county": "Warwickshire"
+   },
+   {
+    "source": "FSA",
+    "name": "Arnies batch bar",
+    "county": "Warwickshire"
+   },
+   {
+    "source": "OSM",
+    "name": "The Batch Bar",
+    "county": "Leicestershire"
+   },
+   {
+    "source": "OSM",
+    "name": "Maz's Batch Bar",
+    "county": "Leicestershire"
+   },
+   {
+    "source": "OSM",
+    "name": "Triple Ate Batch Bar",
+    "county": "West Midlands"
+   },
+   {
+    "source": "OSM",
+    "name": "Arnie's Batch Bar",
+    "county": "Warwickshire"
+   }
+  ],
+  "buttery_aberdeen": 0,
+  "cob_east_mid": 38,
+  "cob_unique": 68,
+  "crusty_next": {
+   "cob": 20,
+   "loaf": 16,
+   "(none)": 7,
+   "corner": 4,
+   "cottage": 3,
+   "pizza": 3,
+   "cobbler": 3,
+   "cafe": 2
+  }
+ },
+ "meta": {
+  "min_n": 10,
+  "doi": "10.5281/zenodo.23691943",
+  "slug": "bread-rolls",
+  "title": "Barm, bap, cob or roll? Mapping Britain's bread roll lines from 20,000 survey answers"
+ }
+}
